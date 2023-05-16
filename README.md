@@ -1,4 +1,6 @@
 # BookingDoctor
+Booking Doctor is an application, designed to simplify the appointment booking process for patients. Our app provides a user-friendly interface that enables patients to conveniently schedule appointments with healthcare professionals.
+
 ## Architecture
 
 MVVM stands for Model-View-ViewModel, which is a design pattern used in software development, particularly in the context of user interfaces (UI). MVVM separates the concerns of presentation logic from the UI, resulting in a more modular and maintainable codebase.
