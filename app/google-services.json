@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55394074553",
+    "project_id": "doctor-care-322ae",
+    "storage_bucket": "doctor-care-322ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55394074553:android:5f743e8045c45591088068",
+        "android_client_info": {
+          "package_name": "com.example.doctor_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55394074553-kj1joenrn8ee8lg0k3amt6835roif8sg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_care",
+            "certificate_hash": "b186349cd3bcc259c0ad9cede4210a036ab5c4ed"
+          }
+        },
+        {
+          "client_id": "55394074553-kp0srha6vi06e7r8rmjjk7cf1oiql91o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEC2KEXM6G5afLyQI_KNHFd0H4w9VJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55394074553-kp0srha6vi06e7r8rmjjk7cf1oiql91o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

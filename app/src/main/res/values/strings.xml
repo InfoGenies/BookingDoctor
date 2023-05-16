@@ -1,0 +1,43 @@
+<resources>
+    <string name="google_maps_api_key">AIzaSyClkEV2xRWZaQ0GsXnvgxxcFQSuuFj0Znk</string>
+
+    <string name="app_name">Doctor-Care</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home Fragment</string>
+    <string name="doctor_care">Doctor Care</string>
+    <string name="care_for_yourself_family_get_a_good_doctor"><![CDATA[Care for yourself & family, Get a Good Doctor!!!]]></string>
+    <string name="menu_home">Home</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="notification_fragment">Notification Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="title_activity_splash_screen">Doctor Care</string>
+    <string name="welcomeMessage">Doctor Care</string>
+    <string name="welcomeSecondMessage">Care For Your self and Familly</string>
+    <string name="errorMessage">  An error occurred, Please try again later  </string>
+    <string name="please_check_internet_connection">Please Check Internet Connection</string>
+    <string name="please_add_your_phone_number_to_continue">Please Add Your Phone Number To Continue</string>
+    <string name="please_add_a_valid_phone_number">Please a Valid Phone Number</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="time">00:00</string>
+    <string name="countDown">00:%1$02d</string>
+    <string name="type_verification_code_first">Please type verification code first</string>
+    <string name="confirm_location">Confirme Your Loocation</string>
+    <string name="get_my_location">Locate me</string>
+    <string name="addUserName">Add User Name</string>
+    <string name="addUserImage">Add User Image</string>
+    <string name="addUserLocation">Add User Loction</string>
+    <string name="accountCreatedSuccessfully">Account Created Successfully</string>
+    <string name="accountUpdatedSuccessfully">Account Updated Successfully</string>
+    <string name="errorCreateAccount">Error Create Account</string>
+    <string name="cannotMakeGPSRequest">Cannot Make GPS Request</string>
+    <string name="enableGPS">Enable GPS</string>
+    <string name="enable">Enable</string>
+    <string name="location_permission_attention">Location Permission Attention</string>
+    <string name="go_to_settings">Go To Settings</string>
+    <string name="logOutMessage">Log Out</string>
+
+</resources>
